@@ -351,7 +351,7 @@ def sim_market_routes(current_cash, current_farms, difficulty):
         latest_bottom_tier: int = None
         last_farm_string_index: str = None
         farmslen = len(current_farms)
-        no_farms = (farmslen == 0) # https://imgflip.com/i/9m76n9
+        no_farms = (farmslen == 0)
         if no_farms:
             print("no farms")
             want="BUY_NEW_FARM"
