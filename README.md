@@ -1,6 +1,6 @@
 # Banana Farm Shenanigans
 
-This project is all about the [Banana Farm](<https://www.bloonswiki.com/Banana_Farm_(BTD6)>) from [BTD6](<https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html>). The end goal is to have the program be capable of finding the optimal farming strategy through brute force, including, well, not using quite all the money for farming, so a defense can be established.
+This project is all about the [Banana Farm](<https://www.bloonswiki.com/Banana_Farm_(BTD6)>) from [BTD6](<https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html>). The end goal is to have the program be capable of finding the optimal farming strategy through brute force.
 
 
 ### TODOs:
